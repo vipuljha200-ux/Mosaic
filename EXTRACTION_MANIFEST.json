@@ -1,0 +1,203 @@
+{
+  "source": "https://mosaic-gems-nails.preview.emergentagent.com/",
+  "capturedAt": "2026-08-24T09:24:42.403Z",
+  "preservation": "All files under served-site are raw HTTP response bodies requested with identity content encoding. Recovered source files are written byte-for-byte from sourcesContent fields embedded in the publicly served source map, including its nested CSS source maps; no formatting, edits, or reconstruction was applied.",
+  "servedFiles": [
+    {
+      "url": "https://mosaic-gems-nails.preview.emergentagent.com/",
+      "file": "served-site/index.html",
+      "bytes": 7819,
+      "sha256": "43b4867b134ab273f2c7dfaf59c1d3da085293fd493d6063d08d6fa8711c1ebe",
+      "contentType": "text/html; charset=utf-8",
+      "contentEncoding": "identity"
+    },
+    {
+      "url": "https://mosaic-gems-nails.preview.emergentagent.com/asset-manifest.json",
+      "file": "served-site/asset-manifest.json",
+      "bytes": 190,
+      "sha256": "2701749fd1161452db7486662c245b004a194cd6906ea9e2ccecbc0000247889",
+      "contentType": "application/json; charset=utf-8",
+      "contentEncoding": "identity"
+    },
+    {
+      "url": "https://mosaic-gems-nails.preview.emergentagent.com/static/js/bundle.js",
+      "file": "served-site/static/js/bundle.js",
+      "bytes": 3075426,
+      "sha256": "e7ede7d10f2646eb02809eafad37f5fd92fa499b2964e487131fb090654951a3",
+      "contentType": "text/javascript; charset=utf-8",
+      "contentEncoding": "identity"
+    },
+    {
+      "url": "https://mosaic-gems-nails.preview.emergentagent.com/static/js/bundle.js.map",
+      "file": "served-site/static/js/bundle.js.map",
+      "bytes": 3129613,
+      "sha256": "e2850f6d541d2524f2f5b6e5c92fde834f3c08d3ef4ac0c599626e659961edfb",
+      "contentType": "application/json; charset=utf-8",
+      "contentEncoding": "identity"
+    },
+    {
+      "url": "https://mosaic-gems-nails.preview.emergentagent.com/assets/logo.jpeg",
+      "file": "served-site/assets/logo.jpeg",
+      "bytes": 158756,
+      "sha256": "256038b94f1180024826c2a16dad4d0f3a87fbb3cdfb66094991ae2bb155a5de",
+      "contentType": "image/jpeg",
+      "contentEncoding": "identity"
+    },
+    {
+      "url": "https://mosaic-gems-nails.preview.emergentagent.com/assets/hero-hand.jpg",
+      "file": "served-site/assets/hero-hand.jpg",
+      "bytes": 256005,
+      "sha256": "a192f3bd3b3cc3c68137471cb453518d36efb755fa8147fc26fbe1d4a45e1606",
+      "contentType": "image/jpeg",
+      "contentEncoding": "identity"
+    },
+    {
+      "url": "https://mosaic-gems-nails.preview.emergentagent.com/visual-edit-overlay.js",
+      "file": "served-site/visual-edit-overlay.js",
+      "bytes": 37613,
+      "sha256": "2fa557b3f7939991bbd1a29478ce6669c57873ada7c763368c6a2a7e238cab16",
+      "contentType": "text/javascript; charset=utf-8",
+      "contentEncoding": "identity"
+    }
+  ],
+  "recoveredSourceFiles": [
+    {
+      "sourcePath": "/app/frontend/src/App.js",
+      "file": "recovered-source/app/frontend/src/App.js",
+      "bytes": 2637,
+      "sha256": "a129d736a1a447250966d7196ff3ac64d8d3827447e8ba2ed8b12f84ab7cb78d",
+      "recovery": "source map sourcesContent"
+    },
+    {
+      "sourcePath": "/app/frontend/src/components/About.jsx",
+      "file": "recovered-source/app/frontend/src/components/About.jsx",
+      "bytes": 2320,
+      "sha256": "30d211a57b890c27d1a10496a7ccb46d1214d41b6336ae0a131503375a17fce7",
+      "recovery": "source map sourcesContent"
+    },
+    {
+      "sourcePath": "/app/frontend/src/components/BookingModal.jsx",
+      "file": "recovered-source/app/frontend/src/components/BookingModal.jsx",
+      "bytes": 8059,
+      "sha256": "a60ca4d5213d3b3504ef5fab09fccb6635b62164668c1756e2b59821d00a65d8",
+      "recovery": "source map sourcesContent"
+    },
+    {
+      "sourcePath": "/app/frontend/src/components/Contact.jsx",
+      "file": "recovered-source/app/frontend/src/components/Contact.jsx",
+      "bytes": 5678,
+      "sha256": "a2e619acd60cfcc9543fa39d6351d9ab8973690dad7d0e0531e30eb25953896c",
+      "recovery": "source map sourcesContent"
+    },
+    {
+      "sourcePath": "/app/frontend/src/components/Footer.jsx",
+      "file": "recovered-source/app/frontend/src/components/Footer.jsx",
+      "bytes": 3657,
+      "sha256": "0277e9d3ede687a540d54102ed090f1b0f6a561ba3154c9f1b234162964ebd96",
+      "recovery": "source map sourcesContent"
+    },
+    {
+      "sourcePath": "/app/frontend/src/components/Hero.jsx",
+      "file": "recovered-source/app/frontend/src/components/Hero.jsx",
+      "bytes": 5058,
+      "sha256": "f206b70120bc3ada86ceee8920424e76fa52047741dc5591fb79ef6765921c83",
+      "recovery": "source map sourcesContent"
+    },
+    {
+      "sourcePath": "/app/frontend/src/components/InstagramFeed.jsx",
+      "file": "recovered-source/app/frontend/src/components/InstagramFeed.jsx",
+      "bytes": 3529,
+      "sha256": "0b8540cd20a377d6f55fb304acd31a23d077c765f04b4ae9968485af03e5edfb",
+      "recovery": "source map sourcesContent"
+    },
+    {
+      "sourcePath": "/app/frontend/src/components/Marquee.jsx",
+      "file": "recovered-source/app/frontend/src/components/Marquee.jsx",
+      "bytes": 972,
+      "sha256": "99aec970ef61091de50ccf7ec30e11952e5f51c92883e582fc2ee573e3c35a86",
+      "recovery": "source map sourcesContent"
+    },
+    {
+      "sourcePath": "/app/frontend/src/components/Navbar.jsx",
+      "file": "recovered-source/app/frontend/src/components/Navbar.jsx",
+      "bytes": 4215,
+      "sha256": "9069ee1cdd5af6230bae8669065f4d20e1c2446152c7b6143dfdd60d43e1eb79",
+      "recovery": "source map sourcesContent"
+    },
+    {
+      "sourcePath": "/app/frontend/src/components/Portfolio.jsx",
+      "file": "recovered-source/app/frontend/src/components/Portfolio.jsx",
+      "bytes": 3006,
+      "sha256": "7280a29f414fef82f18b39fc74df4212bc44e07ff56d001537a5a6be162c661f",
+      "recovery": "source map sourcesContent"
+    },
+    {
+      "sourcePath": "/app/frontend/src/components/Reveal.jsx",
+      "file": "recovered-source/app/frontend/src/components/Reveal.jsx",
+      "bytes": 1093,
+      "sha256": "b4569b96ed975c8c78bbe53d47071900631fb65e5a1644598a12e1191ae8ca55",
+      "recovery": "source map sourcesContent"
+    },
+    {
+      "sourcePath": "/app/frontend/src/components/Services.jsx",
+      "file": "recovered-source/app/frontend/src/components/Services.jsx",
+      "bytes": 3864,
+      "sha256": "a6ca3615eb72ed3731b8314251ee64194134d2dc4ac56a094780fec4105f4a20",
+      "recovery": "source map sourcesContent"
+    },
+    {
+      "sourcePath": "/app/frontend/src/components/WhatsAppFloat.jsx",
+      "file": "recovered-source/app/frontend/src/components/WhatsAppFloat.jsx",
+      "bytes": 2061,
+      "sha256": "b4f6c9fcd3a9c07834b74fe74108f6d0aa82dcb7b088e04d56ab2a1d9f95c775",
+      "recovery": "source map sourcesContent"
+    },
+    {
+      "sourcePath": "/app/frontend/src/data/services.js",
+      "file": "recovered-source/app/frontend/src/data/services.js",
+      "bytes": 2452,
+      "sha256": "b14e340dbec72159bcf968a35fff264dc9f549237cb8b67fa130aee207403936",
+      "recovery": "source map sourcesContent"
+    },
+    {
+      "sourcePath": "/app/frontend/src/index.js",
+      "file": "recovered-source/app/frontend/src/index.js",
+      "bytes": 555,
+      "sha256": "134613d942bfe37921682e2c972474b186dfc4f6f6b42dce14c6026067384472",
+      "recovery": "source map sourcesContent"
+    },
+    {
+      "sourcePath": "/app/frontend/src/lib/site.js",
+      "file": "recovered-source/app/frontend/src/lib/site.js",
+      "bytes": 698,
+      "sha256": "e8efd411b4da0ccc7c51d395b1a0a05268d504805cac52a32a807d6d2c923a61",
+      "recovery": "source map sourcesContent"
+    },
+    {
+      "sourcePath": "/app/frontend/src/pages/OwnerDashboard.jsx",
+      "file": "recovered-source/app/frontend/src/pages/OwnerDashboard.jsx",
+      "bytes": 11463,
+      "sha256": "7a0b7e485a459b44f253e7ebf247bd2b233d68debb506dea928db4c0bd1d518e",
+      "recovery": "source map sourcesContent"
+    },
+    {
+      "sourcePath": "/app/frontend/src/App.css",
+      "file": "recovered-source/app/frontend/src/App.css",
+      "bytes": 29,
+      "sha256": "b05848580e5ea540c4a140d66ceff6bcf786295d943b81527a7636f5da79aa9a",
+      "recovery": "nested source map sourcesContent"
+    },
+    {
+      "sourcePath": "/app/frontend/src/index.css",
+      "file": "recovered-source/app/frontend/src/index.css",
+      "bytes": 4236,
+      "sha256": "3a7a5fd237898d2df30e8b1acb6e3428804f13a6d0395853e2911b3873071712",
+      "recovery": "nested source map sourcesContent"
+    }
+  ],
+  "sourceMap": {
+    "file": "served-site/static/js/bundle.js.map",
+    "sources": 506,
+    "sourceContents": 505
+  }
+}

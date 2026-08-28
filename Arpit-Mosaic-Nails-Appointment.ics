@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Mosaic Nails//Appointment Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4c3225ff-ceb0-4c6c-8053-08523ee51c0c@themosaicnails.com
+DTSTAMP:20260826T070708Z
+DTSTART:20260829T133800
+DTEND:20260829T150800
+SUMMARY:The Mosaic Nails: Nail Extensions — Glitter / Cateye with Extension
+DESCRIPTION:Appointment for Arpit\nService: Nail Extensions — Glitter / Cateye with Extension\nPhone: 3498275279\nStudio Phone: +91 70399 11955\nStudio Address: Shop No. 71, 1st Floor, Sai Nirvana, Downtown, Shahad West-Kalyan
+LOCATION:Shop No. 71, 1st Floor, Sai Nirvana, Downtown, Shahad West-Kalyan
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: The Mosaic Nails Appointment in 1 hour
+END:VALARM
+END:VEVENT
+END:VCALENDAR

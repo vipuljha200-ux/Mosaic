@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Mosaic Nails//Appointment Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Mosaic Nails - themosaicnails@gmail.com
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VEVENT
+UID:581d1a79-f1eb-4b6a-8789-dff0fd3ad565@themosaicnails.com
+DTSTAMP:20260826T122857Z
+DTSTART:20260825T140000
+DTEND:20260825T153000
+SUMMARY:The Mosaic Nails: Make It Strong — Overlays / BIAB (Ayesha Patel)
+DESCRIPTION:Client: Ayesha Patel\nPhone: +91 99300 98765\nService: Make It Strong — Overlays / BIAB\nStatus: completed\nNotes: Regular client\nStudio: The Mosaic Nails (+91 70399 11955)
+LOCATION:Shop No. 71, 1st Floor, Sai Nirvana, Downtown, Shahad West-Kalyan
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Appointment with Ayesha Patel in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9b47c389-5977-4230-93c5-ae60d8f37326@themosaicnails.com
+DTSTAMP:20260826T122857Z
+DTSTART:20260827T160000
+DTEND:20260827T173000
+SUMMARY:The Mosaic Nails: Nail Extensions — French / Ombre with Extension (Simran Kaur)
+DESCRIPTION:Client: Simran Kaur\nPhone: +91 97690 54321\nService: Nail Extensions — French / Ombre with Extension\nStatus: requested\nNotes: Almond shape extensions please\nStudio: The Mosaic Nails (+91 70399 11955)
+LOCATION:Shop No. 71, 1st Floor, Sai Nirvana, Downtown, Shahad West-Kalyan
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Appointment with Simran Kaur in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b64066d7-ee3d-4d4d-bfa2-3eef51395a61@themosaicnails.com
+DTSTAMP:20260826T122857Z
+DTSTART:20260828T123000
+DTEND:20260828T140000
+SUMMARY:The Mosaic Nails: Colour My Nails — Gel Polish (Pooja Hegde)
+DESCRIPTION:Client: Pooja Hegde\nPhone: +91 98201 12345\nService: Colour My Nails — Gel Polish\nStatus: requested\nNotes: First time visit, prefer nude shade with subtle chrome finish\nStudio: The Mosaic Nails (+91 70399 11955)
+LOCATION:Shop No. 71, 1st Floor, Sai Nirvana, Downtown, Shahad West-Kalyan
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Appointment with Pooja Hegde in 1 hour
+END:VALARM
+END:VEVENT
+END:VCALENDAR
